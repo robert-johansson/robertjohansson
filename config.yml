@@ -57,7 +57,7 @@ params:
         imageTitle: my image
         imageWidth: 250
         imageHeight: 250
-        # buttons:
+        buttons:
         #     - name: Don't click me
         #       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
     mainSections:
