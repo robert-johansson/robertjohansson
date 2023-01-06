@@ -5,9 +5,9 @@ type: list
 
 Jag är legitimerad psykolog och docent i psykologi vid Stockholms universitet. Som klinisk psykolog har jag mångårig erfarenhet av arbete med många olika typer av problem, till exempel nedstämdhet, ångestbesvär och relationsproblem. Jag är utbildad i både kognitiv beteendeterapi (KBT) och intensiv psykodynamisk korttidsterapi (ISTDP).
 
-I min forskning har jag bland annat tagit fram och utvärderat ett flertal känslofokuserade psykologiska behandlingar. Resultaten från denna forskning har publicerats i internationella vetenskapliga tidskrifter.
+I min forskning har jag bland annat tagit fram och utvärderat ett flertal känslofokuserade psykologiska behandlingar. Resultaten från min forskning har publicerats i internationella vetenskapliga tidskrifter.
 
-Jag är särskilt intresserad av att arbeta med integration av psykedeliska upplevelser.
+Jag är just nu särskilt intresserad av att arbeta med integration av psykedeliska upplevelser.
 
 <!-- och har över 15 års erfarenhet av kliniskt arbete. Sedan 2013 är jag filosofie doktor i psykologi, och sedan 2018
 
