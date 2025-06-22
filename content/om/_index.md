@@ -7,7 +7,7 @@ Jag är legitimerad psykolog och docent i psykologi vid Stockholms universitet. 
 
 I min forskning har jag bland annat tagit fram och utvärderat ett flertal känslofokuserade psykologiska behandlingar. Resultaten från min forskning har publicerats i internationella vetenskapliga tidskrifter.
 
-Jag är just nu särskilt intresserad av att arbeta med integration av psykedeliska upplevelser.
+OBS! Från och med september 2025 kommer jag inte att bedriva klinisk verksamhet.
 
 <!-- och har över 15 års erfarenhet av kliniskt arbete. Sedan 2013 är jag filosofie doktor i psykologi, och sedan 2018
 
