@@ -1,13 +1,9 @@
 ---
-Title: Om mig
+Title: About me
 type: list
 ---
 
-Jag är legitimerad psykolog och docent i psykologi vid Stockholms universitet. Som klinisk psykolog har jag mångårig erfarenhet av arbete med många olika typer av problem, till exempel nedstämdhet, ångestbesvär och relationsproblem. Jag är utbildad i både kognitiv beteendeterapi (KBT) och intensiv psykodynamisk korttidsterapi (ISTDP).
-
-I min forskning har jag bland annat tagit fram och utvärderat ett flertal känslofokuserade psykologiska behandlingar. Resultaten från min forskning har publicerats i internationella vetenskapliga tidskrifter.
-
-OBS! Från och med september 2025 kommer jag inte att bedriva klinisk verksamhet.
+I am a post-doctoral fellow in the Department of Brain and Cognitive Sciences at MIT, working in Josh Tenenbaum's lab. My research lies at the intersection of psychology, artificial intelligence, and clinical science. My earlier PhD (2013) focused on developing computerized psychological treatments, while my recent PhD (2024) pioneered “Machine Psychology”—an interdisciplinary approach integrating principles from learning psychology with adaptive AI systems. Currently, I am extending this work by developing computational cognitive models of processes central to Clinical Psychology, examining how structured generative models from computational cognitive science can illuminate the sources of emotional suffering. Additionally, I am a licensed clinical psychologist and meditation instructor.
 
 <!-- och har över 15 års erfarenhet av kliniskt arbete. Sedan 2013 är jag filosofie doktor i psykologi, och sedan 2018
 

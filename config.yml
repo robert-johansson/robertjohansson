@@ -10,8 +10,8 @@ menu:
         # - name: Kontakt
         #   url: contact/
         #   weight: 30
-        - name: Om mig
-          url: om/
+        - name: About me
+          url: about/
           weight: 20
         # - name: Articles
         #   url: articles/
@@ -47,11 +47,13 @@ params:
         title: Robert Johansson
         description: |
 
-          Leg. psykolog
+          Post-doctoral fellow @ MIT
           
-          Docent i psykologi
+          PhD in Computer Science
+
+          Associate Professor Clinical Psychology
         
-          Epost: psykolog@robertjohansson.se
+          E-mail: robert@robertjohansson.se
 
         imageUrl: "/images/profile.png"
         imageTitle: my image
